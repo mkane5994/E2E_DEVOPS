@@ -1,0 +1,39 @@
+{
+    "E2ETest": {
+        "COMMENTS": "use (y) yes, (n) no, (s) specific for deal and quote flags",
+        "DEALFLAG": "Y",
+        "QUOTEFLAG": "Y", 
+        "SPECIFICDEAL": "000000000", 
+        "SPECIFICQUOTE": "000000000000", 
+        "ACCOUNT": "160314",
+        "ACCOUNT_NAME": "Hershey",
+        "CUSTOMERITCONTACT_NUMBER": "37034306",
+        "DESCRIPTION": "PR/MR CoreTest",
+        "CLOSE_DATE": "Dec 31, 2023",
+        "DIS_CHANNEL": "01",
+        "EXPECT_END": "/Date(4070995200000)/",
+        "MAIN_CONTACT": "Bill Murray",
+        "PROCESS_TYPE": "ZOPM",
+        "PRODUCT_TYPE": "C",
+        "SALES_ORG_TXT": "SAP USA",
+        "SALES_GROUP": "O 50152262",
+        "SALES_OFFICE": "O 50152569",
+        "SALES_ORG": "O 50001764",
+        "STARTDATE": "/Date(1610118030309)/",
+        "PRD001": "8007905",
+        "PRD002": "8005102",
+        "PRD003": "8007905",
+        "HIGHLEVLEITEM" : "9004045"
+       
+      } ,
+      "octobus":{
+        "octmsg" : {
+          "project" : "devopsneovscfcflp",
+          "step" : "default",
+          "duration": "00"
+        },
+        "config2": "",
+        "octurl": "https://in-https.eude1.ccloud.octobus.tools.sap/c0065/log/callidus_ies"
+
+      }
+  }

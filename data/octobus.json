@@ -1,0 +1,18 @@
+{
+    "octobus":{
+      "config2": "",
+      "octurl": "https://in-https.eude1.ccloud.octobus.tools.sap/c0065/log/callidus_ies"
+    },
+    "dataset" :{
+      "project": "",
+      "env": "",
+      "start": "",
+      "end": "",
+      "duration": 0,
+      "step" : "",
+      "eachTestResult": "",
+      "runlabel" : "",
+      "finishflg" : "N",
+      "overalltime" : 0
+  }
+}
